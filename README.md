@@ -51,7 +51,7 @@ I live in Moscow, Russia.
 ### 🎓 Education
 - **🎓 Bachelors degree in Applied Mathematics & Physics**  
   MIPT, Moscow (2020 - 2024)  
-  ▫️ Thesis: Synthetic execution traces generation for testing  
+  ▫️ Thesis: [Synthetic execution traces generation for testing](https://github.com/VasiliyMatr/bachelors_diploma)  
   ▫️ Relevant Courses: `C/C++`, `CPUs Arch`, `CPUs micro-Arch`, `CPUs Functional Simulation`, `HDL`, `OS`, `LLVM`, `PLs VMs`, `PLs Design`, `STM32` `Python`
 
 ---
