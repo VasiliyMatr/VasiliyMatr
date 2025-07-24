@@ -80,5 +80,5 @@ I live in Moscow, Russia. You can also see [my curriculum vitae](https://github.
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VasiliyMatr&show_icons=true&theme=radical" alt="Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasiliyMatr&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasiliyMatr&layout=compact&theme=radical&exclude_repo=LABS" alt="Top Languages">
 </p>
