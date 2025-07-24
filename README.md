@@ -2,7 +2,7 @@
 
 My name is Vasiliy Matrenin. I do **R&D** 🔬💻 in the field of  **CPU technologies**
 
-I live in Moscow, Russia.
+I live in Moscow, Russia. You can also see [my curriculum vitae](https://github.com/VasiliyMatr/CV/blob/master/PDF/curriculum_vitae.pdf)
 
 ### 📫 My contacts
 
@@ -52,7 +52,11 @@ I live in Moscow, Russia.
 - **🎓 Bachelors degree in Applied Mathematics & Physics**  
   MIPT, Moscow (2020 - 2024)  
   ▫️ Thesis: [Synthetic execution traces generation for testing](https://github.com/VasiliyMatr/bachelors_diploma)  
-  ▫️ Relevant Courses: `C/C++`, `CPUs Arch`, `CPUs micro-Arch`, `CPUs Functional Simulation`, `HDL`, `OS`, `LLVM`, `PLs VMs`, `PLs Design`, `STM32` `Python`
+  ▫️ Relevant Courses: `C/C++`, `CPUs Arch`, `CPUs micro-Arch`, `CPUs Functional Simulation`, `HDL`, `OS`, `LLVM`, `PLs VMs`, `STM32`
+
+- **🎓 Master student in Applied Mathematics & Physics**  
+  MIPT, Moscow (2024 - Present)  
+  ▫️ Relevant Courses: `Advanced C++`, `XPUs micro-Arch`, `JIT & AOT`, `PLs Design`, `Python`
 
 ---
 
